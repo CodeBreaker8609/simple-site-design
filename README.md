@@ -10,7 +10,7 @@ This project features neon glowing headings, a pulsing hover underline, alternat
 ![Screenshot](images/raevaun.jpg)  
 *(Replace with an actual screenshot of your site)*
 
-Live demo: [GitHub Pages Link](https://YourUsername.github.io/simple-site-design/)
+Live demo: [GitHub Pages Link](https://codebreaker8609.github.io/simple-site-design/)
 
 ---
 
