@@ -7,7 +7,7 @@ This project features neon glowing headings, a pulsing hover underline, alternat
 
 ## Demo
 
-![Screenshot](images/screenshotdesktopsimplesite.png)
+![Screenshot](images/screenshotdesktopsimple site.png)
 
 
 Live demo: [GitHub Pages Link](https://codebreaker8609.github.io/simple-site-design/)
